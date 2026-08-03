@@ -241,7 +241,7 @@ vinanthi@root:~$ ./run_snake.sh --eat-contributions
 ```
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
+<img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 </div>
 
 <br>
