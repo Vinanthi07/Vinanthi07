@@ -1,27 +1,140 @@
-# 💫 About Me:
-👋 Hi, I'm Vinanthi<br><br>🎓 First-Year Engineering Student<br><br>💻 Passionate about Programming, Cybersecurity, and Technology<br><br>🔐 Interested in Cybersecurity, Ethical Hacking, Cryptography, and Secure Software Development<br><br>🌱 Currently learning Python, C Programming, Git, GitHub, and Cybersecurity Fundamentals<br><br>🚀 Exploring Open Source, Problem Solving, and Security-Oriented Projects<br><br>📚 Continuously improving my technical skills and expanding my knowledge in software development and cybersecurity<br><br>⚡ Goal: To build secure, impactful, and innovative technology solutions
+<p align="right"> <img src="https://gpvc.arturio.dev/vinanthi07" alt="Profile count"> </p>
+<div align="center">
+<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
+<details open="">
+<summary>Open profile</summary>
+<p><br></p>
+<div>
+  <div align="center">
+      <img height="200" alt="avatar" src="https://avatars.githubusercontent.com/u/232599660?v=4">
+  </div>
+  <div align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vinanthi;First-Year+Engineering+Student;Welcome+to+my+profile!;Description+of+myself%3A;Cybersecurity+Enthusiast;Ethical+Hacking+%26+Cryptography;Problem+Solver;Open+Source+Explorer;Curious+by+nature;Confident+and+ambitious;Always+Learning" alt="Typing SVG"></a>
+  </div>
+</div>
+<details>
+<summary>About me</summary>
+<div align="left">
 
+```javascript
+/**
+ * Represents me.
+ * @constructor
+ * @param {string} status - First-Year Engineering Student.
+ * @param {string} interests - Programming, Cybersecurity & Technology.
+ * @param {string} focus - Ethical Hacking, Cryptography & Secure Software Development.
+ * @param {string} learning - Python, C, Git, GitHub & Cybersecurity Fundamentals.
+ * @param {string} exploring - Open Source, Problem Solving & Security-Oriented Projects.
+ * @param {string} goal - To build secure, impactful, and innovative technology solutions.
+ * @throws {Coffee} To any and all bugs.
+ * @returns {Object} Vinanthi.
+ */
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinanthi-manohari-v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manohari1009@gmail.com) 
+</div>
+</details>
+<details>
+<summary>Tools</summary>
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Programming Languages</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    </kbd>
+    <kbd>
+      <kbd>Cybersecurity &amp; Data</kbd>
+      <br>
+      <br>
+      <img title="anaconda" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>System, Networking &amp; Deployment</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    </kbd>
+    <kbd>
+      <kbd>Tools</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    </kbd>
+    <kbd>
+      <kbd>Game Development</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+    </kbd>
+  </p>
+</div>
+</details>
+<details>
+  <summary>Quote</summary>
+  <br>
+  One of my favourite quotes
+  <blockquote>
+    "The only way to do great work is to love what you do."
+    <br><strong>— Steve Jobs</strong>
+  </blockquote>
+</details>
+<details>
+  <summary>Free DOSE hit</summary>
+  <br>
+  <small><i>DOSE (dopamine, oxytocin, serotonin &amp; endorphin), refresh page if dose was ineffective.</i></small>
+  <br>
+  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card"></div>
+</details>
+<details open="">
+<summary>What can I do for you?</summary>
+<table style="border: none">
+  <tbody><tr>
+  <td width="50%" valign="top">
+<h2 id="lets-work-on-your-project-together">Let's Work on Your Project Together!</h2>
+<p>If you have any questions about programming, cybersecurity, or open source, feel free to <a href="mailto:manohari1009@gmail.com">contact me by email</a>, I won't bite, I promise.</p>
+  </td>
+  <td width="50%" valign="top">
+<h2 id="its-not-perfect-isnt-it">It's not perfect, isn't it?</h2>
+<p><strong><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></strong></p>
+<blockquote>"The best way to predict the future is to create it."
+<br><strong>– Peter Drucker</strong></blockquote>
+  </td>
+  </tr>
+</tbody></table>
+</details>
+</details>
+<p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>
+</div>
+<div align="center">
+  <a href="https://linkedin.com/in/vinanthi-manohari-v"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"></a>
+  <a href="mailto:manohari1009@gmail.com?subject=Hi%20Vinanthi,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vinanthi07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vinanthi07&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vinanthi07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Vinanthi07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Vinanthi07&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vinanthi07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vinanthi07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Vinanthi07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+<p>Last Edited on: 03/08/2026</p>
