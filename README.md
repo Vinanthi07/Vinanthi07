@@ -209,41 +209,19 @@ vinanthi@root:~$ fetch --stats --live
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF9C&include_all_commits=true&count_private=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&layout=compact&langs_count=8" width="38%">
+<img src="https://github-readme-stat-nu-three.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF9C&include_all_commits=true&cache_seconds=86400" width="49%">
+<img src="https://github-readme-stat-nu-three.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
 
-<img src="https://streak-stats.demolab.com/?user=Vinanthi07&hide_border=true&background=0D1117&stroke=0D1117&ring=00FF9C&fire=FF3864&currStreakLabel=00FF9C&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D1117&color=00FF9C&line=00D9FF&point=FFD700&hide_border=true&area=true" width="100%">
+<img src="./profile/streak.svg" alt="GitHub Streak">
 
 </div>
-
-```bash
-vinanthi@root:~$ cat /var/log/contributions.grid
-```
-
-<div align="center">
-<img src="https://ghchart.rshah.org/00FF9C/Vinanthi07" alt="contribution grid" width="100%">
-</div>
-
-<br>
 
 ```bash
 vinanthi@root:~$ tail -f /var/log/commits.log --follow
 ```
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D1117&color=00FF9C&line=FF3864&point=FFD700&hide_border=true&area=true&custom_title=commit%20activity%20—%20live" width="100%">
-</div>
-
-<br>
-
-```bash
-vinanthi@root:~$ uptime --contributions
-```
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=FF3864&text_color=c9d1d9&ring_color=00D9FF&show_icons=true&hide=stars,issues&card_width=600" width="70%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D1117&color=00FF9C&line=FF3864&point=FFD700&hide_border=true&area=true" width="100%">
 </div>
 
 <br>
