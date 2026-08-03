@@ -1,221 +1,274 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5B3CDD,100:1abc9c&height=260&section=header&text=Vinanthi%20Manohari%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Security%20%7C%20AI%20Red%20Teaming%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=52&descSize=19&stroke=ffffff&strokeWidth=0" alt="header banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3" width="100%">
 
-<img src="https://gpvc.arturio.dev/vinanthi07" alt="Profile views">
-<img src="https://img.shields.io/github/followers/Vinanthi07?label=Followers&style=social">
+<pre>
+██╗   ██╗██╗███╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗██╗
+██║   ██║██║████╗  ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██║
+██║   ██║██║██╔██╗ ██║███████║██╔██╗ ██║   ██║   ███████║██║
+╚██╗ ██╔╝██║██║╚██╗██║██╔══██║██║╚██╗██║   ██║   ██╔══██║██║
+ ╚████╔╝ ██║██║ ╚████║██║  ██║██║ ╚████║   ██║   ██║  ██║██║
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝
+</pre>
 
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=500&color=00FF9C&background=0D111700&center=true&vCenter=true&repeat=true&width=680&height=40&lines=root%40vinanthi%3A~%24+whoami;%3E+AI+Security+Researcher;%3E+AI+Red+Teamer;%3E+Building+Pulse+..." alt="Typing SVG"></a>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2600&pause=700&color=A89568&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Hi%2C+I'm+Vinanthi+%F0%9F%91%8B;Computer+Science+Engineering+Student;AI+Security+%2B+Red+Teaming+Enthusiast;Building+Pulse+-+AI+Security+Platform;Prompt+Injection+%26+Model+Evaluation;Build.+Break.+Learn.+Secure.+%F0%9F%94%90" alt="Typing SVG"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=400&color=6EE7B7&background=0D111700&center=true&vCenter=true&repeat=true&width=560&height=30&lines=%3E+status%3A+red--teaming+AI+systems...;%3E+status%3A+securing+the+stack...;%3E+status%3A+build.+break.+learn.+secure." alt="Terminal status line">
 
-  <br>
+<br>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=1ABC9C&center=true&vCenter=true&repeat=true&width=520&height=35&lines=%24+whoami+%3E+vinanthi;%24+status+%3E+red--teaming+AI+systems;%24+status+%3E+securing+the+stack;%24+status+%3E+building+Pulse..." alt="Terminal typing SVG"></a>
+<img src="https://img.shields.io/badge/-AI_SECURITY-000000?style=for-the-badge&labelColor=0D1117&color=00FF9C">
+<img src="https://img.shields.io/badge/-AI_RED_TEAMING-000000?style=for-the-badge&labelColor=0D1117&color=FF3864">
+<img src="https://img.shields.io/badge/-CYBERSECURITY-000000?style=for-the-badge&labelColor=0D1117&color=00D9FF">
+<img src="https://img.shields.io/badge/-OPEN_SOURCE-000000?style=for-the-badge&labelColor=0D1117&color=FFD700">
 
-  <br><br>
+<img src="https://gpvc.arturio.dev/vinanthi07">
+<img src="https://img.shields.io/github/followers/Vinanthi07?label=followers&style=flat-square&labelColor=0D1117&color=00FF9C">
 
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding animation">
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/AI%20Security-8A2BE2?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/AI%20Red%20Teaming-DC143C?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/Cybersecurity-1abc9c?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 <br>
 
-<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" width="100%"></p>
-
-<div align="center">
-
-<details open="">
-<summary><b>👤 About me</b></summary>
-<br>
-
-```javascript
-/**
- * Represents me.
- * @constructor
- * @param {string} role - Computer Science Engineering Student.
- * @param {string} focus - AI Security, AI Red Teaming, Cybersecurity, Open Source.
- * @param {string} mission - Building secure software & evaluating/defending modern AI systems.
- * @param {string} flagship - Pulse - Modular AI Security Evaluation & Research Platform.
- * @param {string} interests - LLM Security, Prompt Injection, Model Evaluation.
- * @param {string} learning - AI Security Engineering, AI Red Teaming, Offensive Security.
- * @throws {Bug} Documented, patched, and never repeated.
- * @returns {Object} Vinanthi.
- */
+```bash
+vinanthi@root:~$ cat whoami.txt
 ```
 
-</details>
+```yaml
+role:      Computer Science Engineering Student
+focus:     AI Security · AI Red Teaming · Cybersecurity · Open Source
+mission:   Build secure software. Evaluate & defend modern AI systems.
+flagship:  Pulse — Modular AI Security Evaluation & Research Platform
+interests: LLM Security, Prompt Injection, Model Evaluation
+learning:  AI Security Engineering, AI Red Teaming, Offensive Security
+motto:     "Build. Break. Learn. Secure."
+```
 
-<details open="">
-<summary><b>🚀 Featured Projects</b></summary>
 <br>
+
+```bash
+vinanthi@root:~$ ls -la ./featured_projects/
+```
 
 <table width="100%">
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h3>🧬 Pulse</h3>
-        <p>Modular AI Security Evaluation &amp; Research Platform — my flagship project, built to test, evaluate, and red-team AI systems.</p>
-        <img src="https://img.shields.io/badge/status-actively%20building-success?style=flat-square">
-      </td>
+
+**🧬 Pulse**
+`drwxr-xr-x`  Modular AI Security Evaluation & Research Platform — my flagship project, built to test, evaluate, and red-team AI systems.
+<img src="https://img.shields.io/badge/status-actively_building-00FF9C?style=flat-square&labelColor=0D1117">
+
+  </td>
       <td width="50%" valign="top">
-        <h3>🎣 PhishGuard</h3>
-        <p>URL-based phishing detection and analysis tool for identifying malicious links before they cause harm.</p>
-        <img src="https://img.shields.io/badge/type-detection%20tool-blue?style=flat-square">
-      </td>
+
+**🎣 PhishGuard**
+`-rwxr-xr-x`  URL-based phishing detection and analysis tool for identifying malicious links before they cause harm.
+<img src="https://img.shields.io/badge/type-detection_tool-00D9FF?style=flat-square&labelColor=0D1117">
+
+  </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>🔑 Password Strength Checker</h3>
-        <p>Python-based password security assessment tool for evaluating credential strength.</p>
-        <img src="https://img.shields.io/badge/lang-python-yellow?style=flat-square">
-      </td>
+
+**🔑 Password Strength Checker**
+`-rwxr-xr-x`  Python-based password security assessment tool for evaluating credential strength.
+<img src="https://img.shields.io/badge/lang-python-FFD700?style=flat-square&labelColor=0D1117">
+
+  </td>
       <td width="50%" valign="top">
-        <h3>📡 Network Packet Sniffer</h3>
-        <p>Packet capture and network traffic analysis tool for understanding what's really moving on the wire.</p>
-        <img src="https://img.shields.io/badge/domain-networking-orange?style=flat-square">
-      </td>
+
+**📡 Network Packet Sniffer**
+`-rwxr-xr-x`  Packet capture and network traffic analysis tool for understanding what's really moving on the wire.
+<img src="https://img.shields.io/badge/domain-networking-FF3864?style=flat-square&labelColor=0D1117">
+
+  </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>🔐 Basic Encryption &amp; Decryption</h3>
-        <p>Classical cryptography implementation in Python — the fundamentals, done right.</p>
-        <img src="https://img.shields.io/badge/domain-cryptography-purple?style=flat-square">
-      </td>
+
+**🔐 Basic Encryption & Decryption**
+`-rwxr-xr-x`  Classical cryptography implementation in Python — the fundamentals, done right.
+<img src="https://img.shields.io/badge/domain-cryptography-9D4EDD?style=flat-square&labelColor=0D1117">
+
+  </td>
       <td width="50%" valign="top">
-        <h3>🛡️ Secure Coding Review</h3>
-        <p>Static security analysis and secure coding practices applied to real codebases.</p>
-        <img src="https://img.shields.io/badge/domain-appsec-red?style=flat-square">
-      </td>
+
+**🛡️ Secure Coding Review**
+`-rwxr-xr-x`  Static security analysis and secure coding practices applied to real codebases.
+<img src="https://img.shields.io/badge/domain-appsec-FF6B00?style=flat-square&labelColor=0D1117">
+
+  </td>
     </tr>
   </tbody>
 </table>
-</details>
 
-<details>
-<summary><b>🎯 Current Focus</b></summary>
 <br>
-<img src="https://img.shields.io/badge/AI%20Security-000?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20Red%20Teaming-000?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM%20Security-000?style=for-the-badge">
+
+```bash
+vinanthi@root:~$ ps aux | grep current_focus
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_SECURITY-0D1117?style=for-the-badge&logo=openai&logoColor=00FF9C&color=161B22">
+<img src="https://img.shields.io/badge/AI_RED_TEAMING-0D1117?style=for-the-badge&color=161B22&logoColor=FF3864">
+<img src="https://img.shields.io/badge/LLM_SECURITY-0D1117?style=for-the-badge&color=161B22&logoColor=00D9FF">
 <br><br>
-<img src="https://img.shields.io/badge/Prompt%20Injection%20%26%20Model%20Eval-000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Secure%20Software%20Engineering-000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python%20Security%20Tooling-000?style=for-the-badge&logo=python&logoColor=yellow">
-</details>
-
-<details>
-<summary><b>🛠️ Tools &amp; Technologies</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark" alt="skill icons">
-</details>
-
-<details>
-<summary><b>📚 Currently Learning</b></summary>
-<br>
-<div align="left" style="display:inline-block; text-align:left;">
-
-- AI Security Engineering
-- AI Red Teaming Methodologies
-- LLM Security
-- Offensive Security Fundamentals
-- Secure Coding
+<img src="https://img.shields.io/badge/PROMPT_INJECTION_%26_MODEL_EVAL-0D1117?style=for-the-badge&color=161B22">
+<img src="https://img.shields.io/badge/SECURE_SOFTWARE_ENGINEERING-0D1117?style=for-the-badge&color=161B22">
+<img src="https://img.shields.io/badge/PYTHON_SECURITY_TOOLING-0D1117?style=for-the-badge&logo=python&logoColor=FFD700&color=161B22">
 
 </div>
-</details>
 
-<details>
-<summary><b>🌟 Goals</b></summary>
 <br>
-<div align="left" style="display:inline-block; text-align:left;">
 
-- Build **Pulse** into a leading open-source AI Security platform
-- Contribute impactful security tools to the open-source community
-- Become an AI Security Engineer specializing in AI Red Teaming
-- Build practical tools that improve the security of AI systems
+```bash
+vinanthi@root:~$ ./run_toolchain.sh --list
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark">
+</div>
+
+<br>
+
+```bash
+vinanthi@root:~$ tail -f currently_learning.log
+```
+
+```diff
++ AI Security Engineering
++ AI Red Teaming Methodologies
++ LLM Security
++ Offensive Security Fundamentals
++ Secure Coding
+```
+
+```bash
+vinanthi@root:~$ cat goals.md
+```
+
+```diff
++ Build Pulse into a leading open-source AI Security platform
++ Contribute impactful security tools to the open-source community
++ Become an AI Security Engineer specializing in AI Red Teaming
++ Build practical tools that improve the security of AI systems
+```
+
+<br>
+
+<div align="center">
+
+```bash
+vinanthi@root:~$ echo $MOTTO
+> "Build. Break. Learn. Secure."
+```
 
 </div>
-</details>
 
-<details>
-<summary><b>💬 Quote</b></summary>
-<br>
-<blockquote>"Build. Break. Learn. Secure."<br><strong>— Vinanthi</strong></blockquote>
-</details>
-
-<details>
-<summary><b>😄 Free DOSE hit</b></summary>
-<br>
-<small><i>DOSE (dopamine, oxytocin, serotonin &amp; endorphin), refresh page if dose was ineffective.</i></small>
-<br><br>
-<img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card">
-</details>
-
-<details open="">
-<summary><b>📬 What can I do for you?</b></summary>
 <br>
 
-<table>
-  <tbody><tr>
-  <td width="50%" valign="top">
-<h3>Let's Work on Something Together!</h3>
-<p>If you have any questions about AI security, red teaming, secure software, or open source, feel free to <a href="mailto:manohari1009@gmail.com">reach out by email</a> — always happy to talk shop.</p>
+```bash
+vinanthi@root:~$ ping contact --reach-out
+```
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+
+**Let's work on something together**
+Questions about AI security, red teaming, secure software, or open source? [Reach out by email](mailto:manohari1009@gmail.com) — always happy to talk shop.
+
   </td>
-  <td width="50%" valign="top">
-<h3>Always Improving</h3>
-<p><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></p>
-<blockquote>"Security isn't a checkbox, it's a habit."</blockquote>
+      <td width="50%" valign="top">
+
+**Always improving**
+<img alt="Feedback" src="https://img.shields.io/badge/ask_me-anything-00FF9C?style=flat-square&labelColor=0D1117">
+
+> "Security isn't a checkbox, it's a habit."
+
   </td>
-  </tr>
-</tbody></table>
-</details>
-
-</div>
-
-<p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball" width="100%"></p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/vinanthi-manohari-v"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="></a>
-  <a href="mailto:manohari1009@gmail.com?subject=Hi%20Vinanthi,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
-  <a href="https://github.com/Vinanthi07"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="></a>
-</div>
-
-<br>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" width="38%">
-
-<img src="https://streak-stats.demolab.com/?user=Vinanthi07&theme=tokyonight&hide_border=false" alt="streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&theme=tokyo-night&hide_border=false&area=true" alt="activity graph" width="100%">
-
-## 🐍 Contribution Snake
-
-<!-- snake animation embed -->
-<img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" width="100%">
-<img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" width="100%">
-
-<sub>⬆️ Powered by the included GitHub Action — see <code>SNAKE_SETUP.md</code> for the one-time setup that makes this render.</sub>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vinanthi07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies">
+<a href="https://linkedin.com/in/vinanthi-manohari-v"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="mailto:manohari1009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+<a href="https://github.com/Vinanthi07"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"></a>
 
 </div>
 
 <br>
 
+```bash
+vinanthi@root:~$ fetch --stats --live
+```
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,50:5B3CDD,100:8A2BE2&height=140&section=footer" alt="footer banner" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF9C&include_all_commits=true&count_private=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&layout=compact&langs_count=8" width="38%">
+
+<img src="https://streak-stats.demolab.com/?user=Vinanthi07&hide_border=true&background=0D1117&stroke=0D1117&ring=00FF9C&fire=FF3864&currStreakLabel=00FF9C&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D1117&color=00FF9C&line=00D9FF&point=FFD700&hide_border=true&area=true" width="100%">
+
+</div>
+
+```bash
+vinanthi@root:~$ cat /var/log/contributions.grid
+```
+
+<div align="center">
+<img src="https://ghchart.rshah.org/00FF9C/Vinanthi07" alt="contribution grid" width="100%">
+</div>
+
+<br>
+
+```bash
+vinanthi@root:~$ tail -f /var/log/commits.log --follow
+```
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D1117&color=00FF9C&line=FF3864&point=FFD700&hide_border=true&area=true&custom_title=commit%20activity%20—%20live" width="100%">
+</div>
+
+<br>
+
+```bash
+vinanthi@root:~$ uptime --contributions
+```
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=FF3864&text_color=c9d1d9&ring_color=00D9FF&show_icons=true&hide=stars,issues&card_width=600" width="70%">
+</div>
+
+<br>
+
+```bash
+vinanthi@root:~$ cat /var/log/contribution_grid.log
+```
+
+<div align="center">
+<img src="https://ghchart.rshah.org/39FF14/Vinanthi07" alt="contribution grid" width="100%">
+</div>
+
+<br>
+
+```bash
+vinanthi@root:~$ cat trophies.log
+```
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vinanthi07&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7">
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3" width="100%">
+<sub>root@vinanthi:~$ █</sub>
 </div>
