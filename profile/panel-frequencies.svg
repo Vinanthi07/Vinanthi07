@@ -1,0 +1,25 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#1a0b2e"/>
+        <stop offset="50%" stop-color="#3b0f5c"/>
+        <stop offset="100%" stop-color="#1a0b2e"/>
+      </linearGradient>
+      <linearGradient id="pgGlass" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+      </linearGradient>
+      <filter id="glowP" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+    <rect width="1200" height="70" rx="14" fill="url(#pg)"/>
+    <rect width="1200" height="70" rx="14" fill="url(#pgGlass)"/>
+    <rect x="0.5" y="0.5" width="1199" height="69" rx="14" fill="none" stroke="#b967ff" stroke-opacity="0.4" stroke-width="1"/>
+    <path d="M0 16 V0 H16" stroke="#b967ff" stroke-width="2" fill="none"/>
+<path d="M1184 0 H1200 V16" stroke="#b967ff" stroke-width="2" fill="none"/>
+<path d="M1200 54 V70 H1184" stroke="#b967ff" stroke-width="2" fill="none"/>
+<path d="M16 70 H0 V54" stroke="#b967ff" stroke-width="2" fill="none"/>
+    <text x="600.0" y="43.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-weight="700" font-size="20" letter-spacing="3" fill="#b967ff" filter="url(#glowP)">◈  ACTIVE FREQUENCIES  ◈</text>
+    </svg>

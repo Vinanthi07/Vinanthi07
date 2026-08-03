@@ -1,0 +1,37 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="fg" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#ff9770"/>
+        <stop offset="30%" stop-color="#ff4da6"/>
+        <stop offset="65%" stop-color="#7a1f8e"/>
+        <stop offset="100%" stop-color="#1a0b2e"/>
+      </linearGradient>
+      <filter id="glowF" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+    <rect width="1200" height="140" fill="url(#fg)"/>
+    <line x1="0" y1="11.3" x2="1200" y2="11.3" stroke="#ff61d8" stroke-width="1" opacity="0.52"/>
+<line x1="0" y1="16.2" x2="1200" y2="16.2" stroke="#ff61d8" stroke-width="1" opacity="0.48"/>
+<line x1="0" y1="25.0" x2="1200" y2="25.0" stroke="#ff61d8" stroke-width="1" opacity="0.45"/>
+<line x1="0" y1="38.3" x2="1200" y2="38.3" stroke="#ff61d8" stroke-width="1" opacity="0.41"/>
+<line x1="0" y1="56.2" x2="1200" y2="56.2" stroke="#ff61d8" stroke-width="1" opacity="0.38"/>
+<line x1="0" y1="79.0" x2="1200" y2="79.0" stroke="#ff61d8" stroke-width="1" opacity="0.34"/>
+<line x1="0" y1="106.9" x2="1200" y2="106.9" stroke="#ff61d8" stroke-width="1" opacity="0.31"/>
+<line x1="0" y1="140.0" x2="1200" y2="140.0" stroke="#ff61d8" stroke-width="1" opacity="0.28"/>
+<line x1="528.0" y1="10" x2="-180.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="540.0" y1="10" x2="-50.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="552.0" y1="10" x2="80.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="564.0" y1="10" x2="210.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="576.0" y1="10" x2="340.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="588.0" y1="10" x2="470.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="600.0" y1="10" x2="600.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="612.0" y1="10" x2="730.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="624.0" y1="10" x2="860.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="636.0" y1="10" x2="990.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="648.0" y1="10" x2="1120.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="660.0" y1="10" x2="1250.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+<line x1="672.0" y1="10" x2="1380.0" y2="140" stroke="#00f5ff" stroke-width="1" opacity="0.35"/>
+    <text x="600.0" y="76.0" text-anchor="middle" font-family="Consolas, monospace" font-size="16" letter-spacing="4" fill="#ffffff" filter="url(#glowF)">◈ END TRANSMISSION ◈</text>
+    </svg>
