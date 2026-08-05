@@ -205,7 +205,7 @@ Static security analysis and secure coding practices applied to real codebases.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=1a0b2e&color=00F5FF&line=FF61D8&point=FFD700&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=1a0b2e&color=00F5FF&line=FF61D8&point=FFD700&hide_border=true&area=true&t=20260805" width="100%">
 
 <br><br>
 
