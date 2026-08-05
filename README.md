@@ -201,7 +201,9 @@ Static security analysis and secure coding practices applied to real codebases.
 <img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true&cache_seconds=86400" width="49%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" alt="GitHub Streak" width="100%">
+<!-- GitHub Streak - Fixed with correct service -->
+
+<img src="https://streak-stats.demolab.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" alt="GitHub Streak" width="100%">
 
 
 
