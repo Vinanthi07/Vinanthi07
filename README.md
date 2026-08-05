@@ -202,11 +202,9 @@ motto:     "Build. Break. Learn. Secure."
 
 ## 🌌 CONTRIBUTION GRID
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-grid.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-grid-light.svg">
-  <img alt="contribution grid" src="./profile/contribution-grid.svg" width="100%">
-</picture>
+<img src="https://ghchart.rshah.org/FF10F0/Vinanthi07" alt="contribution grid" width="100%">
+
+
 
 </div>
 
