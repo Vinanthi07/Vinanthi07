@@ -164,26 +164,28 @@
 
 <br>
 
-<!-- STATS SECTION - FIXED LAYOUT -->
+<!-- SIMPLIFIED STATS SECTION - USING ONLY RELIABLE SERVICES -->
 <div align="center">
   
-  <!-- Row 1: GitHub Stats + Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true&cache_seconds=86400" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true" width="45%">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8" width="40%">
   
   <br><br>
   
-  <!-- Row 2: GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" width="90%">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" width="90%">
   
   <br><br>
   
-  <!-- Row 3: Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=1a0b2e&color=e8e8ff&line=B967FF&point=FF61D8&area=true&hide_border=true" width="95%">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Vinanthi07&bg_color=1a0b2e&color=e8e8ff&line=B967FF&point=FF61D8&area=true&hide_border=true" width="95%">
   
   <br><br>
   
-  <!-- Row 4: Snake Animation -->
+  <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" width="100%">
   
 </div>
