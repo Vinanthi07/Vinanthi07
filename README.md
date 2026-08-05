@@ -175,7 +175,7 @@ Static security analysis and secure coding practices applied to real codebases.
 </td>
 <td width="50%" valign="top" align="center">
 
-**◈ MISSION OBJECTIVES**
+◈ MISSION OBJECTIVES
 
 ```diff
 + Build Pulse into a leading open-source AI Security platform
@@ -197,23 +197,24 @@ Static security analysis and secure coding practices applied to real codebases.
 <br>
 
 <div align="center">
-<img src="https://github-readme-stat-nu-three.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true&cache_seconds=86400" width="49%">
-<img src="https://github-readme-stat-nu-three.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
 
-<img src="./profile/streak.svg" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true&cache_seconds=86400" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
 
-<br><br>
-<img src="https://ghchart.rshah.org/B967FF/Vinanthi07" alt="GitHub Contribution Chart" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" alt="GitHub Streak" width="100%">
 
-<br><br>
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=1a0b2e&color=e8e8ff&line=B967FF&point=FF61D8&area=true&hide_border=true" width="100%">
+
+
+
+
 
 <img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 
-<img src="https://ghchart.rshah.org/B967FF/Vinanthi07" alt="contribution grid" width="100%">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 </div>
 
 <br>
@@ -241,16 +242,16 @@ Static security analysis and secure coding practices applied to real codebases.
     <tr>
       <td width="50%" valign="top" align="center">
 
-**Let's work on something together**
-Questions about AI security, red teaming, secure software, or open source? [Reach out by email](mailto:manohari1009@gmail.com) — always happy to talk shop.
+Let's work on something together
+Questions about AI security, red teaming, secure software, or open source? Reach out by email — always happy to talk shop.
 
   </td>
       <td width="50%" valign="top" align="center">
 
-**Always improving**
+Always improving
 <img alt="Feedback" src="https://img.shields.io/badge/ask_me-anything-00F5FF?style=flat-square&labelColor=1a0b2e">
 
-> "Security isn't a checkbox, it's a habit."
+"Security isn't a checkbox, it's a habit."
 
   </td>
     </tr>
