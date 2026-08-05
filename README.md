@@ -203,6 +203,11 @@ Static security analysis and secure coding practices applied to real codebases.
 <img src="./profile/streak.svg" alt="GitHub Streak">
 
 <br><br>
+<img src="https://ghchart.rshah.org/B967FF/Vinanthi07" alt="GitHub Contribution Chart" width="100%">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 
 <img src="https://ghchart.rshah.org/B967FF/Vinanthi07" alt="contribution grid" width="100%">
 
