@@ -197,15 +197,10 @@ Static security analysis and secure coding practices applied to real codebases.
 <br>
 
 <div align="center">
-
 <img src="https://github-readme-stat-nu-three.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true&cache_seconds=86400" width="49%">
 <img src="https://github-readme-stat-nu-three.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
 
 <img src="./profile/streak.svg" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=1a0b2e&color=00F5FF&line=FF61D8&point=FFD700&hide_border=true&area=true&t=20260805t=20260805123106" width="100%">
 
 <br><br>
 
@@ -214,7 +209,6 @@ Static security analysis and secure coding practices applied to real codebases.
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
-
 </div>
 
 <br>
