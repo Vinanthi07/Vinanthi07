@@ -1,4 +1,5 @@
 name: Update streak stats
+
 on:
   schedule:
     - cron: "0 3 * * *"   # runs daily at 03:00 UTC
@@ -6,35 +7,34 @@ on:
     paths:
       - ".github/workflows/streak-stats.yml"
   workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=Vinanthi07&theme=dark&hide_border=true&background=0D0221&ring=8A2BE2&fire=FF10F0&currStreakLabel=FF10F0&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280
+@@ -24,10 +21,20 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
-      - name: Generate contribution grid
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Vinanthi07
-          outputs: |
-            profile/contribution-grid.svg?palette=github-dark
-            profile/contribution-grid-light.svg?palette=github-light
-        env:
-          GITHUB_TOKEN: ${{ secrets.STREAK_STATS_TOKEN }}
+      - name: Commit streak stats
 
-      - name: Commit generated assets
+
+
+
+
+
+
+
+
+
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg profile/contribution-grid.svg profile/contribution-grid-light.svg
-          git commit -m "Update streak stats and contribution grid" || exit 0
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
           git push
