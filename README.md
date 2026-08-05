@@ -198,7 +198,7 @@ motto:     "Build. Break. Learn. Secure."
 
 <img src="./profile/streak.svg" alt="GitHub Streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D0221&color=FF10F0&line=00F0FF&point=B026FF&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D0221&color=FF10F0&line=00F0FF&point=B026FF&hide_border=true&area=true&t=20260805" width="100%">
 
 ## 🌌 CONTRIBUTION GRID
 
