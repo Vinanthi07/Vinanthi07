@@ -2,11 +2,12 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
+    # Runs every 6 hours to catch contributions much faster
+    - cron: "0 3,9,15,21 * * *"
+  # ✅ Triggers on ANY push (code, docs, anything)
   push:
-    paths:
-      - ".github/workflows/streak-stats.yml"
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  # Manual trigger from the Actions tab
+  workflow_dispatch: {}
 
 jobs:
   build:
@@ -22,12 +23,13 @@ jobs:
         with:
           options: user=Vinanthi07&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=FF3864&currStreakLabel=00FF9C&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 🔑 RECOMMENDED: use a classic PAT with 'repo' scope to count private contributions
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git commit -m "Update streak stats [skip ci]" || exit 0
           git push
