@@ -22,7 +22,7 @@ jobs:
         with:
           options: user=Vinanthi07&theme=dark&hide_border=true&background=0D0221&ring=8A2BE2&fire=FF10F0&currStreakLabel=FF10F0&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       - name: Commit streak stats
         run: |
