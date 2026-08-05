@@ -2,11 +2,8 @@ name: Update streak stats
 
 on:
   schedule:
-    # Runs every 6 hours (at 03:00, 09:00, 15:00, 21:00 UTC)
     - cron: "0 3,9,15,21 * * *"
-  # ✅ Trigger on ANY push (code, docs, anything)
   push:
-  # Manual trigger from the Actions tab
   workflow_dispatch: {}
 
 jobs:
@@ -23,13 +20,19 @@ jobs:
         with:
           options: user=Vinanthi07&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=FF3864&currStreakLabel=00FF9C&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280
           path: profile/streak.svg
-          # Recommended: use a classic PAT with 'repo' scope to count private contributions
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak stats
+      # 🆕 NEW: Update the timestamp in README.md
+      - name: Update graph timestamp
+        run: |
+          TIMESTAMP=$(date +'%Y%m%d%H%M%S')
+          sed -i "s/&t=[0-9]*/&t=$TIMESTAMP/g" README.md
+          sed -i "s/&v=[0-9]*/&v=$TIMESTAMP/g" README.md
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats [skip ci]" || exit 0
+          git add profile/streak.svg README.md
+          git commit -m "Update streak stats and graph [skip ci]" || exit 0
           git push
