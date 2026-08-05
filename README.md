@@ -164,28 +164,36 @@
 
 <br>
 
-<!-- SIMPLIFIED STATS SECTION - USING ONLY RELIABLE SERVICES -->
+<!-- SIMPLE STATS - USING ONLY WHAT WORKS -->
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF&include_all_commits=true" width="45%">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Vinanthi07">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vinanthi07&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&icon_color=00F5FF&text_color=e8e8ff&ring_color=B967FF" width="48%">
+  </a>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact&langs_count=8" width="40%">
+  <a href="https://github.com/Vinanthi07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=1a0b2e&title_color=FF61D8&text_color=e8e8ff&layout=compact" width="38%">
+  </a>
   
   <br><br>
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" width="90%">
+  <!-- Streak -->
+  <a href="https://github.com/Vinanthi07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinanthi07&hide_border=true&background=1a0b2e&stroke=00F5FF&ring=FF61D8&fire=B967FF&currStreakNum=e8e8ff&sideNums=e8e8ff&currStreakLabel=FF61D8&sideLabels=FF61D8&dates=00F5FF" width="90%">
+  </a>
   
   <br><br>
   
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Vinanthi07&bg_color=1a0b2e&color=e8e8ff&line=B967FF&point=FF61D8&area=true&hide_border=true" width="95%">
+  <!-- Activity Graph -->
+  <a href="https://github.com/Vinanthi07">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=1a0b2e&color=e8e8ff&line=B967FF&point=FF61D8&area=true&hide_border=true" width="95%">
+  </a>
   
   <br><br>
   
-  <!-- Snake Animation -->
+  <!-- Snake -->
   <img src="https://raw.githubusercontent.com/Vinanthi07/Vinanthi07/output/github-contribution-grid-snake-dark.svg" width="100%">
   
 </div>
