@@ -14,10 +14,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Generate Streak Stats
-        uses: denvercoder1/github-readme-streak-stats@v1.6.0
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: Vinanthi07
+          options: user=Vinanthi07&theme=default&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
       - name: Commit streak stats
@@ -25,5 +25,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats [skip ci]" || exit 0
+          git commit -m "Update streak stats" || exit 0
           git push
