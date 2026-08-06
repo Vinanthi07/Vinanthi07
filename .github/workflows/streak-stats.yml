@@ -1,8 +1,7 @@
 name: Update streak stats
-
 on:
   schedule:
-    - cron: "*/5 * * * *"   # runs every 5 minutes
+    - cron: "0 */3 * * *"   # runs every 3 hours
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
@@ -13,17 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate Streak Stats
-        uses: denvercoder1/github-readme-streak-stats@v1
+        uses: denvercoder1/github-readme-streak-stats@v1.6.0
         with:
           user: Vinanthi07
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
-
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
