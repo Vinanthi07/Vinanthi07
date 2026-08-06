@@ -193,16 +193,16 @@ motto:     "Build. Break. Learn. Secure."
 
 ## ⚡ LIVE STATS
 
-<img src="https://github-readme-stat-nu-three.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D0221&title_color=FF10F0&icon_color=00F0FF&text_color=c9d1d9&ring_color=8A2BE2&include_all_commits=true&cache_seconds=86400" width="49%">
-<img src="https://github-readme-stat-nu-three.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=0D0221&title_color=FF10F0&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=86400" width="38%">
+<img src="https://github-readme-stat-nu-three.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=0D0221&title_color=FF10F0&icon_color=00F0FF&text_color=c9d1d9&ring_color=8A2BE2&include_all_commits=true&cache_seconds=1800" width="49%">
+<img src="https://github-readme-stat-nu-three.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=0D0221&title_color=FF10F0&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" width="38%">
 
-<img src="./profile/streak.svg" alt="GitHub Streak">
+<img src="./profile/streak.svg?v=1" alt="GitHub Streak">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=0D0221&color=FF10F0&line=00F0FF&point=B026FF&hide_border=true&area=true&v=2" width="100%">
 
 ## 🌌 CONTRIBUTION GRID
 
-<img src="https://ghchart.rshah.org/FF10F0/Vinanthi07" alt="contribution grid" width="100%">
+<img src="https://ghchart.rshah.org/FF10F0/Vinanthi07?v=1" alt="contribution grid" width="100%">
 
 
 
