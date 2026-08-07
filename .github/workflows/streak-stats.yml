@@ -35,6 +35,14 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
+      - name: Commit streak
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "> sys.update(streak) [skip ci]" || echo "no changes"
+          git push
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -48,8 +56,9 @@ jobs:
           config_display: large
           config_timezone: Asia/Kolkata
           config_output: svg
-          output_action: none
           filename: profile/stats.svg
+          output_action: commit
+          committer_message: "> sys.update(stats) [skip ci]"
 
       - uses: lowlighter/metrics@latest
         with:
@@ -60,13 +69,6 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
           config_output: svg
-          output_action: none
           filename: profile/activity-graph.svg
-
-      - name: Commit metrics
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg profile/stats.svg profile/activity-graph.svg
-          git commit -m "> sys.update(metrics) [skip ci]" || exit 0
-          git push
+          output_action: commit
+          committer_message: "> sys.update(activity-graph) [skip ci]"
