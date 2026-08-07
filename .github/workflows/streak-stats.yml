@@ -5,7 +5,7 @@ on:
     - cron: "0 */3 * * *"
   push:
     paths:
-      - ".github/workflows/metrics.yml"
+      - ".github/workflows/streak-stats.yml"
   workflow_dispatch: {}
 
 jobs:
@@ -14,6 +14,27 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: >-
+            user=Vinanthi07
+            &hide_border=true
+            &background=000000
+            &ring=00FF41
+            &fire=39FF14
+            &currStreakNum=00FF41
+            &sideNums=39FF14
+            &currStreakLabel=00FF41
+            &sideLabels=39FF14
+            &dates=6bff8f
+            &stroke=00FF41
+            &timezone=Asia/Kolkata
+          path: profile/streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -46,6 +67,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/activity-graph.svg
+          git add profile/streak.svg profile/stats.svg profile/activity-graph.svg
           git commit -m "> sys.update(metrics) [skip ci]" || exit 0
           git push
