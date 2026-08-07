@@ -195,8 +195,7 @@ $ _
 
 ## >_ LIVE_STATS.EXE
 
-<img src="https://github-readme-stat-nu-three.vercel.app/api?username=Vinanthi07&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=39FF14&text_color=6bff8f&ring_color=00FF41&include_all_commits=true&cache_seconds=1800" width="49%">
-<img src="https://github-readme-stat-nu-three.vercel.app/api/top-langs/?username=Vinanthi07&hide_border=true&bg_color=000000&title_color=00FF41&text_color=6bff8f&layout=compact&langs_count=8&cache_seconds=1800" width="38%">
+<img src="./profile/stats.svg" alt="GitHub Stats" width="100%">
 
 <img src="./profile/streak.svg" alt="GitHub Streak">
 
