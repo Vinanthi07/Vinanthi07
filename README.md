@@ -199,7 +199,9 @@ $ _
 
 <img src="./profile/streak.svg" alt="GitHub Streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinanthi07&bg_color=000000&color=00FF41&line=39FF14&point=00FF41&hide_border=true&area=true" width="100%">
+## >_ CONTRIBUTION_GRAPH.PLT
+
+<img src="./profile/contribution-graph.svg" alt="Contribution Graph" width="100%">
 
 ## >_ CONTRIBUTION_GRID.MAP
 
