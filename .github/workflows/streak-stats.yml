@@ -29,3 +29,5 @@ jobs:
           config_output: svg
           output_action: none
           filename: profile/stats.svg
+          config_padding: 1%, 1%
+          config_animations: yes
